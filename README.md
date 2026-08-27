@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sohum! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
 
-Mechanical Engineering Projects
+<h2> Mechanical Engineering Projects:</h2>
 
 - <b> PCB Test Fixture (Lumafield)</b>
   - [Production Board testing](https://github.com/joshmadakor1/Algorithms-Practice)
