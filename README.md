@@ -3,21 +3,22 @@
 
 <h2> Mechanical Engineering Projects:</h2>
 
-- <b> PCB Test Fixture (Lumafield)</b>
+- <b>PCB Test Fixture (Lumafield)</b>
   - [Production Board testing](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Jigs/Process Improvements](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Acoustic Air Filtration (Warsinger Water Lab)</b>
-  - [Acoustic System Design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b>
+  - [Acoustic System Design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>EV Battery Pack (ASME Energy)</b>
   - [Pack Redesign](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b> UAS Wing Detachment Design (Solakair)</b>
+- <b>UAS Wing Detachment Design (Solakair)</b>
   - [Wing Detachment & Spar Assembly](https://github.com/joshmadakor1/EncrypterPOC)
-- <b> Modular Turning Rachet</b>
-  - [Rachet Design & Machining](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b> LiDAR Detection Robot (Ongoing)</b>
- 
-- <b> More about me!</b>
+- <b>Modular Turning Ratchet</b>
+  - [Ratchet Design & Machining](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+- <b>LiDAR Detection Robot (Ongoing)</b>
+
+- <b>More about me!</b>
   - [Interests](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 <h2> Connect with me:</h2>
 
 
