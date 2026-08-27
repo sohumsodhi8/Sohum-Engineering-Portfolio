@@ -20,7 +20,10 @@
   - [Interests](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2> Connect with me:</h2>
 
-[<img align="left" alt="SohumSodhi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/sohumsodhi
-SohumSodhi@gmail.com
+<table>
+  <tr>
+    <td><a href="https://linkedin.com/in/sohumsodhi"><img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" /></a></td>
+    <td>SohumSodhi@gmail.com &nbsp;|&nbsp; 612-800-4221</td>
+  </tr>
+</table>
