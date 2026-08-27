@@ -9,13 +9,13 @@
 - <b>Acoustic Air Filtration (Warsinger Water Lab)</b>
   - [Acoustic System Design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)<b>
 - <b>EV Battery Pack (ASME Energy)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Pack Redesign](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b> UAS Wing Detachment Design (Solakair)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Wing Detachment & Spar Assembly](https://github.com/joshmadakor1/EncrypterPOC)
 - <b> Modular Turning Rachet</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Rachet Design & Machining](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b> LiDAR Detection Robot (Ongoing)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+ 
 - <b> More about me!</b>
   - [Interests](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 <h2> Connect with me:</h2>
