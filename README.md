@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sohum! <br/><a href="https://github.com/joshmadakor1">Mechanical Engineer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Researcher </a>
+<h1>Hi, I'm Sohum! <br/><a href="https://github.com/joshmadakor1">Mechanical Engineering</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Research </a>
 
 
 <h2> Mechanical Engineering Projects:</h2>
