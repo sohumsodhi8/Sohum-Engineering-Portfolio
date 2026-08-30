@@ -14,7 +14,7 @@
   - [Wing Detachment & Spar Assembly](https://github.com/joshmadakor1/EncrypterPOC)
 - <b>Modular Turning Ratchet</b>
   - [Ratchet Design & Machining](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>LiDAR Detection Robot (Ongoing)</b>
+- <b>Hydroelectric Rain Filter
 
 - <b>More about me!</b>
   - [Interests](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
