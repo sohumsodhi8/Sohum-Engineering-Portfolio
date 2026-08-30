@@ -16,8 +16,9 @@
   - [Ratchet Design & Machining](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Hydroelectric Rain Filter
 
-- <b>More about me!</b>
-  - [Interests](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+<h2> Publications </h2>
+
+[More about me!</b>](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> Connect with me:</h2>
 
