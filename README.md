@@ -4,13 +4,11 @@
 <h2> Mechanical Engineering Projects:</h2>
 
 - <b>PCB Test Fixture (Lumafield)</b>
-  - [Production Board testing](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Jigs/Process Improvements](https://github.com/joshmadakor1/Algorithms-Practice)
+
 
 
 <h2> Publications </h2>
 
-[More about me!</b>](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2> Connect with me:</h2>
 
