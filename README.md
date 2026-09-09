@@ -6,15 +6,7 @@
 - <b>PCB Test Fixture (Lumafield)</b>
   - [Production Board testing](https://github.com/joshmadakor1/Algorithms-Practice)
   - [Jigs/Process Improvements](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Acoustic Air Filtration (Warsinger Water Lab)</b>
-  - [Acoustic System Design](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
-- <b>EV Battery Pack (ASME Energy)</b>
-  - [Pack Redesign](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>UAS Wing Detachment Design (Solakair)</b>
-  - [Wing Detachment & Spar Assembly](https://github.com/joshmadakor1/EncrypterPOC)
-- <b>Modular Turning Ratchet</b>
-  - [Ratchet Design & Machining](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-- <b>Hydroelectric Rain Filter
+
 
 <h2> Publications </h2>
 
