@@ -3,7 +3,6 @@
 
 <h2> Mechanical Engineering Projects:</h2>
 
-- <b>PCB Test Fixture (Lumafield)</b>
 
 
 
